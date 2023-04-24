@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { NFTStorage, File } from 'nft.storage'
 import { Buffer } from 'buffer';
 import { ethers } from 'ethers';
-import axios from 'axios';
+import axios from 'axios'; 
 
 // Components
 import Spinner from 'react-bootstrap/Spinner';
